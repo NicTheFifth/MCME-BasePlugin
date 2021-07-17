@@ -2,5 +2,4 @@ name: ${project.artifactId}
 main: com.mcmiddleearth.mcme.baseplugin.BasePlugin
 version: ${project.version}
 authors: [NicoviçTheSixth]
-depend: [WorldEdit]
-api-version: 1.15
+api-version: 1.16
